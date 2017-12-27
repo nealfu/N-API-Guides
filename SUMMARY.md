@@ -17,4 +17,5 @@
 ## 04 安全
 
 * [Secure Endpoints with OAuth 2.0](04-安全/secure-endpoints-with-oauth-20.md)
+* [Define and Assign Access Rights](04-安全/define-and-assign-access-rights.md)
 
