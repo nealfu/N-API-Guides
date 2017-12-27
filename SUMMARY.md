@@ -4,7 +4,7 @@
 
 ## 02 原则
 
-* [API as a Product](02-原则/0201.md)
+* [0201](02-原则/0201.md)
 
 ## 03 总体规范
 
@@ -17,5 +17,5 @@
 
 ## 05 兼容性
 
-* [Don't Break Backward Compatibility](05-兼容性/dont-break-backward-compatibility.md)
+* [0501](05-兼容性/0501.md)
 
