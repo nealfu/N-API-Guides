@@ -5,3 +5,7 @@
 - \#/info/version    （API 规格说明的版本号）
 - \#/info/description    （包含对 API 的正确描述）
 - \#/info/contact/{name, url, email}    (包含此 API 的负责团队的信息)
+
+OpenAPI 规范请参考 [OpenAPI 3.0](https://swagger.io/specification/)。
+
+API 规格文件应该使用Git做好版本控制，最好和实现它的代码放一起。
