@@ -14,8 +14,9 @@
 
 ## 04 具体细则
 
-* [安全](04-具体细则/0401-security.md)
-* [兼容性](04-具体细则/0402-compatibility.md)
+* [安全](04-具体细则/security.md)
+* [兼容性](04-具体细则/compatibility.md)
+* [JSON 指南](04-具体细则/json-guidelines.md)
 
 ## 05 附录
 
