@@ -2,12 +2,15 @@
 
 * [Introduction](README.md)
 
-## 02 Principles
+## 02 原则
 
-* [API as a Product](02-principles/api-as-a-product.md)
-* [API Design Principles](02-principles/api-design-principles.md)
+* [API as a Product](02-原则/api-as-a-product.md)
+* [API Design Principles](02-原则/api-design-principles.md)
 
-## 03 General Guidelines
+## 03 总体规范
 
-* [Follow API First Principle](03-general-guidelines/follow-api-first-principle.md)
+* [Follow API First Principle](03-总体规范/follow-api-first-principle.md)
+* [Provide API Specification using OpenAPI](03-总体规范/provide-api-specification-using-openapi.md)
+* [Provide API User Manual](03-总体规范/provide-api-user-manual.md)
+* [Write APIs in U.S. English](03-总体规范/write-apis-in-us-english.md)
 
