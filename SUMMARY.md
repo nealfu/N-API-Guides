@@ -1,11 +1,12 @@
 # Summary
 
 * [Introduction](README.md)
-* [2.Principles](2principle.md)
-  * [API as a Product](2principle/api-as-a-product.md)
-  * [API Design Principles](2principle/api-design-principles.md)
 
-## 3.General Guidelines
+## 02 Principles
 
-* [Follow API First Principle](3general-guidelines/follow-api-first-principle.md)
+* [API as a Product](02-principles/api-as-a-product.md)
+
+## 03 General Guidelines
+
+* [Follow API First Principle](03-general-guidelines/follow-api-first-principle.md)
 
