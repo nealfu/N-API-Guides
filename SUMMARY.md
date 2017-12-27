@@ -12,12 +12,12 @@
 * [遵守 API 优先原则](03-总体规范/follow-api-first-principle.md)
 * [提供符合 OpenAPI 规范的 API 规格说明](03-总体规范/provide-api-specification-using-openapi.md)
 
-## 04 安全
+## 04 具体细则
 
-* [Secure Endpoints with OAuth 2.0](04-安全/secure-endpoints-with-oauth-20.md)
-* [Define and Assign Access Rights](04-安全/define-and-assign-access-rights.md)
+* [安全](04-具体细则/0401-security.md)
+* [兼容性](04-具体细则/0402-compatibility.md)
 
-## 05 兼容性
+## 05 附录
 
 * [0501](05-兼容性/0501.md)
 
