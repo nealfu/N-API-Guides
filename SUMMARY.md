@@ -14,3 +14,7 @@
 * [Provide API User Manual](03-总体规范/provide-api-user-manual.md)
 * [Write APIs in U.S. English](03-总体规范/write-apis-in-us-english.md)
 
+## 04 安全
+
+* [Secure Endpoints with OAuth 2.0](04-安全/secure-endpoints-with-oauth-20.md)
+
