@@ -3,10 +3,10 @@
 - 我们更喜欢 REST-based APIs with JSON payloads
 - 我们更喜欢系统是真正的 RESTful （REST API 成熟度级别2）
 
-
-
 ![](/assets/restful maturity level.png)
 
+RESTful API 设计和使用的一条重要原则是伯斯塔尔法则（Postel's Law）， 也称为健壮性原则：接收时要开放自由；发送时要保守。
+    
 
 
 
