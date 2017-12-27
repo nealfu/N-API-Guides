@@ -4,8 +4,8 @@
 
 ## 02 原则
 
-* [0201](02-原则/0201.md)
-* [API 设计原则](02-原则/0201/api-she-ji-yuan-ze.md)
+* [API as a Product](02-原则/0201.md)
+* [API 设计原则](02-原则/api-she-ji-yuan-ze.md)
 
 ## 03 总体规范
 
