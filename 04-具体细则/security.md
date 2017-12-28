@@ -6,10 +6,8 @@
 
 
 
-```
 Application IDResource IDAccess TypeExamplefulfillment-orderreadfulfillment-order.readfulfillment-orderwritefulfillment-order.writesales-ordersales_orderreadsales-order.sales_order.readsales-ordershipment_orderreadsales-order.shipment_order.read
 
-```
 
 
 
