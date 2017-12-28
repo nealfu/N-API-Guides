@@ -3,7 +3,7 @@
 ## 01 引言
 
 * [背景介绍](README.md)
-* [Conventions](conventions.md)
+* [约定](conventions.md)
 
 ## 02 原则
 
