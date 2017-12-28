@@ -4,9 +4,9 @@
 ## [Must] 定义和分配访问权限（Scopes）
 每个 API 都需要定义访问权限，这里称为Scope，每个端点至少需要分配一个Scope。 Scope由每个 API 规范的名称和描述来定义。
 
+以下是一些示例：
+![](/assets/scope example.png)
 
-
-Application IDResource IDAccess TypeExamplefulfillment-orderreadfulfillment-order.readfulfillment-orderwritefulfillment-order.writesales-ordersales_orderreadsales-order.sales_order.readsales-ordershipment_orderreadsales-order.shipment_order.read
 
 
 
