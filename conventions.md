@@ -1,1 +1,1 @@
-The requirement level keywords "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL" used in this document (case insensitive) are to be interpreted as described in RFC 2119.
+在此文档中的需求级别关键字 "MUST"、 "MUST NOT"、 "REQUIRED"、 "SHALL"、 "SHALL NOT"、 "SHOULD"、 "SHOULD NOT"、 "RECOMMENDED"、 "MAY"、 和 "OPTIONAL" (大小写敏感) 具体含义请参照 [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt)。
