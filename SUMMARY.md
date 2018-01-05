@@ -20,7 +20,7 @@
 * [安全](04-具体细则/security.md)
 * [兼容性](04-具体细则/compatibility.md)
 * [JSON 指南](04-具体细则/json-guidelines.md)
-* [API Naming](04-具体细则/api-naming.md)
+* [API 命名](04-具体细则/api-naming.md)
 
 ## 05 附录
 
