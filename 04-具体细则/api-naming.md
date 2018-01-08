@@ -18,3 +18,6 @@
   Original-Message-ID
 ```
 
+## [Must] 资源名称使用复数形式
+
+## [Must] 使用 /api 作为公共 API 路径前缀  
